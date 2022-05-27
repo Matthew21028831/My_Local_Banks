@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="view_you_bank_accounts_here">View you bank accounts here</string>
+    <string name="banking_needs">Banking Needs</string>
+    <string name="uob">UOB</string>
+    <string name="ocbc">OCBC</string>
+    <string name="dbs">DBS</string>
+</resources>
